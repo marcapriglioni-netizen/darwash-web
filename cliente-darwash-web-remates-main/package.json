@@ -1,0 +1,31 @@
+{
+  "name": "cliente-validarsa-landing-gestionplay",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@contentful/rich-text-react-renderer": "^15.16.4",
+    "contentful": "^9.3.5",
+    "cookies-next": "^2.1.1",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "moment": "^2.29.4",
+    "next": "12.3.1",
+    "prettier": "^2.7.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "bootstrap": "^5.2.3",
+    "eslint": "^8.24.0",
+    "eslint-config-next": "^12.3.1",
+    "react-bootstrap": "^2.7.2",
+    "sass": "^1.60.0"
+  }
+}
